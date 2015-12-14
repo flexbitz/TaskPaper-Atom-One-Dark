@@ -1,7 +1,9 @@
 # Atom One Dark for TaskPaper 3
 
 A dark theme for [TaskPaper 3](http://taskpaper.com) heavily inspired on (stolen from) [Atom One Dark Syntax](https://github.com/atom/one-dark-syntax).
+A few more details can be found in the [forum](http://support.hogbaysoftware.com/t/theme-dark-theme-based-on-atom-one-dark-syntax/1297).
 
+![](preview.png)
 
 ## Features
 
@@ -18,10 +20,6 @@ A dark theme for [TaskPaper 3](http://taskpaper.com) heavily inspired on (stolen
 - Notes are also dimmed in relation to tasks.
 - Tags are always dimmed in relation to task text.
 - Saved searches are a more subdued tone as not to distract from main list
-
-## Preview
-![](preview.png)
-
 
 ## TODO
 
