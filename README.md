@@ -3,7 +3,7 @@
 A dark theme for [TaskPaper 3](http://taskpaper.com) heavily inspired on (stolen from) [Atom One Dark Syntax](https://github.com/atom/one-dark-syntax).
 A few more details can be found in the [forum](http://support.hogbaysoftware.com/t/theme-dark-theme-based-on-atom-one-dark-syntax/1297).
 
-![](preview.png)
+![](https://raw.githubusercontent.com/pslobo/TaskPaper-Atom-One-Dark/master/Preview.png)
 
 ## Features
 
